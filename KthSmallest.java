@@ -1,4 +1,4 @@
-package Tirgul1;
+package Data_Structures;
 
 
 public class KthSmallest {
